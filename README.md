@@ -1,4 +1,5 @@
 # DataScienceProduction
+This project is based on CRISP method and this is the first cycle.
 
 ## Business Problem
 
