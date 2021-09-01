@@ -8,7 +8,7 @@ from rossmann.Rossmann import Rossmann
 model = pickle.load( open('model/model_rossmann.pkl', 'rb' ) ) 
 
 # initialize API
-app = Flask( __name__ )
+app = Flask(__name__)
 
 @app.route( '/rossmann/predict', methods=['POST'] )
 def rossmann_predict():
