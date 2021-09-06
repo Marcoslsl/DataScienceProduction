@@ -9,7 +9,7 @@ This project is motivated by Rossmann CFO. Rossmann store managers are tasked wi
 
 ## Solution Proposal
 
-The idea is to produce a solution based on machine learning because is a clear prediction model problem. And make this solution accessible by smartphone (telegram)
+The idea is to produce a solution based on machine learning, because is a clear prediction model problem. And then Deploy it on heroku.
 
 
 ## Steps For This Solution:
