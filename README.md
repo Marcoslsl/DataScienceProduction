@@ -1,18 +1,18 @@
-# DataScienceProduction
+# <font color='#008080'> **DataScienceProduction** </font>
 This project is based on CRISP method and this is the first cycle.
 
-## Business Problem
+## <font color='#008080'> Business Problem </font>
 
 Obs: It's a context created by me to simulate a real business problem. together with some information got from Kaggle.
 
 This project is motivated by Rossmann CFO. Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. They feel like doing this because they want to invest to reform the drug stories. Rossmann operates over 3,000 drug stores in 7 European countries. Currently,  Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances.
 
-## Solution Proposal
+## <font color='#008080'> Solution Proposal </font>
 
 The idea is to produce a solution based on machine learning, because is a clear prediction model problem. And then Deploy it on heroku.
 
 
-## Steps For This Solution:
+## <font color='#008080'> Steps For This Solution: </font>
 
 1. Data Description
 2. Feature Engineering
@@ -26,7 +26,7 @@ The idea is to produce a solution based on machine learning, because is a clear 
 10. Deploy
 
 
-## Data Information
+## <font color='#008080'> Data Information </font>
 
 - **Id** - an Id that represents a (Store, Date) duple within the test set
 
